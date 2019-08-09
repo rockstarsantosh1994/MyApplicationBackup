@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/app/src/main/java/com/example/myapplicationbackup/22-1track" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/java/com/example/myapplicationbackup/22track" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/java/com/example/myapplicationbackup/Foodcor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/java/com/example/myapplicationbackup/HRMS" vcs="Git" />
+  </component>
+</project>
